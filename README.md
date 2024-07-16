@@ -1,3 +1,12 @@
+#Conteúdos a serem trabalhados nesse módulo:
+•Soft skills
+•LinkedIn
+•Ética em tecnologia
+•Gestão de tempo
+•Git básico
+•Introdução a TypeScript
+•Métodos de strings
+•Métodos de arrays
 # Evolucao-de-aprendizagem-github
 ## O que eu já sei sobre os assuntos que serão abordados nesse módulo?  
   • Soft skills são habilidades importantes importantíssimas para uma boa convivência no meio de trabalho.  
